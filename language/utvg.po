@@ -1,0 +1,829 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2017-03-11 23:10-0500\n"
+"PO-Revision-Date: 2017-03-11 23:10-0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.12\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: language\n"
+"X-Poedit-SearchPath-1: .\n"
+
+#: admin.php:45
+msgid "uTubeVideo Galleries"
+msgstr ""
+
+#: admin.php:46 includes/forms/generalOptions.inc.php:9
+msgid "Settings"
+msgstr ""
+
+#: admin.php:67
+msgid "Are you sure you want to delete this gallery?"
+msgstr ""
+
+#: admin.php:68
+msgid "Are you sure you want to delete this album?"
+msgstr ""
+
+#: admin.php:69
+msgid "Are you sure you want to delete this video?"
+msgstr ""
+
+#: admin.php:95
+msgid "Galleries"
+msgstr ""
+
+#: class/utvAdminGen.class.php:375
+msgid ""
+"Oops... there seems to be a problem saving the video(s) thumbnail. Most "
+"likely you need to install a PHP image processing library, such as GD or "
+"Imagick. Please send the following information to the developer if the "
+"problem persists."
+msgstr ""
+
+#: class/utvAlbumListTable.class.php:31 class/utvVideoListTable.class.php:31
+msgid "Thumbnail"
+msgstr ""
+
+#: class/utvAlbumListTable.class.php:32 class/utvGalleryListTable.class.php:25
+#: class/utvVideoListTable.class.php:32
+msgid "Name"
+msgstr ""
+
+#: class/utvAlbumListTable.class.php:33 class/utvVideoListTable.class.php:33
+msgid "Published"
+msgstr ""
+
+#: class/utvAlbumListTable.class.php:34 class/utvGalleryListTable.class.php:27
+#: class/utvVideoListTable.class.php:34
+msgid "Date Added"
+msgstr ""
+
+#: class/utvAlbumListTable.class.php:35
+msgid "# Videos"
+msgstr ""
+
+#: class/utvAlbumListTable.class.php:120 class/utvAlbumListTable.class.php:185
+#: class/utvGalleryListTable.class.php:107
+#: class/utvGalleryListTable.class.php:167
+#: class/utvVideoListTable.class.php:117 class/utvVideoListTable.class.php:189
+msgid "Delete"
+msgstr ""
+
+#: class/utvAlbumListTable.class.php:121 class/utvVideoListTable.class.php:118
+msgid "Publish"
+msgstr ""
+
+#: class/utvAlbumListTable.class.php:122 class/utvVideoListTable.class.php:119
+msgid "Unpublish"
+msgstr ""
+
+#: class/utvAlbumListTable.class.php:163
+msgid "No albums found"
+msgstr ""
+
+#: class/utvAlbumListTable.class.php:180 class/utvAlbumListTable.class.php:181
+#: class/utvAlbumListTable.class.php:191
+#: class/utvGalleryListTable.class.php:163
+#: class/utvGalleryListTable.class.php:169
+msgid "View"
+msgstr ""
+
+#: class/utvAlbumListTable.class.php:183
+#: class/utvGalleryListTable.class.php:165
+#: class/utvVideoListTable.class.php:187
+msgid "Edit this item"
+msgstr ""
+
+#: class/utvAlbumListTable.class.php:183
+#: class/utvGalleryListTable.class.php:165
+#: class/utvVideoListTable.class.php:187
+msgid "Edit"
+msgstr ""
+
+#: class/utvAlbumListTable.class.php:185
+#: class/utvGalleryListTable.class.php:167
+#: class/utvVideoListTable.class.php:189
+msgid "Delete this item"
+msgstr ""
+
+#: class/utvAlbumListTable.class.php:187
+msgid "Add video to this album"
+msgstr ""
+
+#: class/utvAlbumListTable.class.php:187 includes/forms/viewAlbum.inc.php:27
+msgid "Add Video"
+msgstr ""
+
+#: class/utvAlbumListTable.class.php:189
+msgid "Add playlist to this album"
+msgstr ""
+
+#: class/utvAlbumListTable.class.php:189 includes/forms/viewAlbum.inc.php:28
+msgid "Add Playlist"
+msgstr ""
+
+#: class/utvAlbumListTable.class.php:193 class/utvVideoListTable.class.php:192
+msgid "Click to toggle"
+msgstr ""
+
+#: class/utvGalleryListTable.class.php:26
+msgid "Shortcode"
+msgstr ""
+
+#: class/utvGalleryListTable.class.php:28
+msgid "# Albums"
+msgstr ""
+
+#: class/utvGalleryListTable.class.php:146
+msgid "No galleries found"
+msgstr ""
+
+#: class/utvVideoGen.class.php:94 class/utvVideoGen.class.php:151
+#: includes/forms/createGallery.inc.php:29
+#: includes/forms/editGallery.inc.php:79
+msgid "Albums"
+msgstr ""
+
+#: class/utvVideoGen.class.php:109 includes/forms/addPlaylist.inc.php:56
+#: includes/forms/addVideo.inc.php:68 includes/forms/createAlbum.inc.php:28
+#: includes/forms/createGallery.inc.php:37 includes/forms/editAlbum.inc.php:98
+#: includes/forms/editGallery.inc.php:101 includes/forms/editVideo.inc.php:122
+#: includes/forms/viewAlbum.inc.php:30 includes/forms/viewGallery.inc.php:27
+msgid "Go Back"
+msgstr ""
+
+#: class/utvVideoGen.class.php:111
+msgid "Sorry... there appear to be no videos for this album yet."
+msgstr ""
+
+#: class/utvVideoGen.class.php:174
+msgid "Sorry... there appear to be no video albums yet."
+msgstr ""
+
+#: class/utvVideoGen.class.php:229 class/utvVideoGen.class.php:233
+msgid "Sorry... there appear to be no videos yet."
+msgstr ""
+
+#: class/utvVideoListTable.class.php:120
+msgid "Refresh Thumbnail"
+msgstr ""
+
+#: class/utvVideoListTable.class.php:164
+msgid "No videos found"
+msgstr ""
+
+#: class/utvVideoListTable.class.php:181 class/utvVideoListTable.class.php:190
+msgid "Watch On YouTube"
+msgstr ""
+
+#: class/utvVideoListTable.class.php:181 class/utvVideoListTable.class.php:190
+msgid "Watch On Vimeo"
+msgstr ""
+
+#: class/utvVideoListTable.class.php:190
+msgid "Watch"
+msgstr ""
+
+#: class/utvWPListTableBase.class.php:162
+msgid "List View"
+msgstr ""
+
+#: class/utvWPListTableBase.class.php:163
+msgid "Excerpt View"
+msgstr ""
+
+#: class/utvWPListTableBase.class.php:334
+msgid "No items found."
+msgstr ""
+
+#: class/utvWPListTableBase.class.php:462
+msgid "Select bulk action"
+msgstr ""
+
+#: class/utvWPListTableBase.class.php:464
+msgid "Bulk Actions"
+msgstr ""
+
+#: class/utvWPListTableBase.class.php:474
+msgid "Apply"
+msgstr ""
+
+#: class/utvWPListTableBase.class.php:524
+#: class/utvWPListTableBase.class.php:1325
+msgid "Show more details"
+msgstr ""
+
+#: class/utvWPListTableBase.class.php:587
+msgid "Filter by date"
+msgstr ""
+
+#: class/utvWPListTableBase.class.php:589
+msgid "All dates"
+msgstr ""
+
+#: class/utvWPListTableBase.class.php:602
+#, php-format
+msgid "%1$s %2$d"
+msgstr ""
+
+#: class/utvWPListTableBase.class.php:661
+#: class/utvWPListTableBase.class.php:673
+#: class/utvWPListTableBase.class.php:686
+msgid "No comments"
+msgstr ""
+
+#: class/utvWPListTableBase.class.php:673
+msgid "No approved comments"
+msgstr ""
+
+#: class/utvWPListTableBase.class.php:686
+msgid "No pending comments"
+msgstr ""
+
+#: class/utvWPListTableBase.class.php:799
+msgid "First page"
+msgstr ""
+
+#: class/utvWPListTableBase.class.php:809
+msgid "Previous page"
+msgstr ""
+
+#: class/utvWPListTableBase.class.php:816
+#: class/utvWPListTableBase.class.php:819
+msgid "Current Page"
+msgstr ""
+
+#: class/utvWPListTableBase.class.php:832
+msgid "Next page"
+msgstr ""
+
+#: class/utvWPListTableBase.class.php:842
+msgid "Last page"
+msgstr ""
+
+#: class/utvWPListTableBase.class.php:1070
+msgid "Select All"
+msgstr ""
+
+#: includes/ajax.php:182 includes/ajax.php:287 includes/processor.inc.php:266
+msgid "Invalid URL."
+msgstr ""
+
+#: includes/ajax.php:195 includes/ajax.php:239 includes/ajax.php:297
+#: includes/ajax.php:313 includes/processor.inc.php:320
+#: includes/processor.inc.php:324
+msgid "Oops... something went wrong. Try again."
+msgstr ""
+
+#: includes/ajax.php:267
+msgid "You must have a valid API key set in the settings menu."
+msgstr ""
+
+#: includes/forms/addPlaylist.inc.php:9 includes/forms/addVideo.inc.php:9
+#: includes/forms/editAlbum.inc.php:20 includes/forms/viewAlbum.inc.php:10
+msgid "Invalid Album ID"
+msgstr ""
+
+#: includes/forms/addPlaylist.inc.php:21
+msgid "Add New Playlist to"
+msgstr ""
+
+#: includes/forms/addPlaylist.inc.php:23 includes/forms/addVideo.inc.php:23
+#: includes/forms/editVideo.inc.php:45
+msgid "Source:"
+msgstr ""
+
+#: includes/forms/addPlaylist.inc.php:28 includes/forms/addVideo.inc.php:28
+msgid "ex: the source of the video"
+msgstr ""
+
+#: includes/forms/addPlaylist.inc.php:31 includes/forms/addVideo.inc.php:31
+msgid "URL:"
+msgstr ""
+
+#: includes/forms/addPlaylist.inc.php:33
+msgid "ex: YouTube or Vimeo playlist url"
+msgstr ""
+
+#: includes/forms/addPlaylist.inc.php:36 includes/forms/addVideo.inc.php:41
+#: includes/forms/editVideo.inc.php:75
+msgid "Quality:"
+msgstr ""
+
+#: includes/forms/addPlaylist.inc.php:42
+msgid "ex: the starting quality of the playlist videos"
+msgstr ""
+
+#: includes/forms/addPlaylist.inc.php:45 includes/forms/addVideo.inc.php:50
+#: includes/forms/editVideo.inc.php:98
+msgid "Chromeless:"
+msgstr ""
+
+#: includes/forms/addPlaylist.inc.php:47 includes/forms/addVideo.inc.php:52
+#: includes/forms/editVideo.inc.php:100
+msgid "ex: hide the playback controls of the video"
+msgstr ""
+
+#: includes/forms/addPlaylist.inc.php:54
+msgid "Save New Playlist"
+msgstr ""
+
+#: includes/forms/addPlaylist.inc.php:66
+msgid "Playlist Items:"
+msgstr ""
+
+#: includes/forms/addPlaylist.inc.php:69
+msgid "No videos loaded yet"
+msgstr ""
+
+#: includes/forms/addVideo.inc.php:21
+msgid "Add New Video to"
+msgstr ""
+
+#: includes/forms/addVideo.inc.php:33
+msgid "ex: video url"
+msgstr ""
+
+#: includes/forms/addVideo.inc.php:36 includes/forms/editVideo.inc.php:49
+msgid "Name:"
+msgstr ""
+
+#: includes/forms/addVideo.inc.php:38
+msgid "ex: the name for the video"
+msgstr ""
+
+#: includes/forms/addVideo.inc.php:47 includes/forms/editVideo.inc.php:95
+msgid "ex: the starting quality of the video"
+msgstr ""
+
+#: includes/forms/addVideo.inc.php:55 includes/forms/editVideo.inc.php:103
+msgid "Start Time:"
+msgstr ""
+
+#: includes/forms/addVideo.inc.php:57 includes/forms/editVideo.inc.php:105
+msgid "ex: start time of video (in seconds)"
+msgstr ""
+
+#: includes/forms/addVideo.inc.php:60 includes/forms/editVideo.inc.php:108
+msgid "End Time:"
+msgstr ""
+
+#: includes/forms/addVideo.inc.php:62 includes/forms/editVideo.inc.php:110
+msgid "ex: end time of video (in seconds)"
+msgstr ""
+
+#: includes/forms/addVideo.inc.php:66
+msgid "Save New Video"
+msgstr ""
+
+#: includes/forms/createAlbum.inc.php:10
+msgid "Create Video Album"
+msgstr ""
+
+#: includes/forms/createAlbum.inc.php:12 includes/forms/editAlbum.inc.php:39
+msgid "Album Name:"
+msgstr ""
+
+#: includes/forms/createAlbum.inc.php:14
+msgid "ex: name of video album"
+msgstr ""
+
+#: includes/forms/createAlbum.inc.php:17 includes/forms/editAlbum.inc.php:70
+msgid "Video Sorting:"
+msgstr ""
+
+#: includes/forms/createAlbum.inc.php:19
+#: includes/forms/createGallery.inc.php:13 includes/forms/editAlbum.inc.php:75
+#: includes/forms/editGallery.inc.php:33
+msgid "Top to Bottom"
+msgstr ""
+
+#: includes/forms/createAlbum.inc.php:20
+#: includes/forms/createGallery.inc.php:14 includes/forms/editAlbum.inc.php:75
+#: includes/forms/editGallery.inc.php:33
+msgid "Bottom to Top"
+msgstr ""
+
+#: includes/forms/createAlbum.inc.php:22 includes/forms/editAlbum.inc.php:90
+msgid "ex: the order that videos will be displayed"
+msgstr ""
+
+#: includes/forms/createAlbum.inc.php:25
+msgid "Save New Album"
+msgstr ""
+
+#: includes/forms/createGallery.inc.php:4
+msgid "Create Gallery"
+msgstr ""
+
+#: includes/forms/createGallery.inc.php:6 includes/forms/editGallery.inc.php:23
+msgid "Gallery Name:"
+msgstr ""
+
+#: includes/forms/createGallery.inc.php:8
+msgid "ex: name of gallery for your reference"
+msgstr ""
+
+#: includes/forms/createGallery.inc.php:11
+#: includes/forms/editGallery.inc.php:28
+msgid "Album Sorting:"
+msgstr ""
+
+#: includes/forms/createGallery.inc.php:16
+#: includes/forms/editGallery.inc.php:48
+msgid "ex: the order that albums will be displayed"
+msgstr ""
+
+#: includes/forms/createGallery.inc.php:19
+#: includes/forms/editGallery.inc.php:51
+msgid "Thumbnail Type:"
+msgstr ""
+
+#: includes/forms/createGallery.inc.php:21
+#: includes/forms/editGallery.inc.php:56
+msgid "Rectangle"
+msgstr ""
+
+#: includes/forms/createGallery.inc.php:22
+#: includes/forms/editGallery.inc.php:56
+msgid "Square"
+msgstr ""
+
+#: includes/forms/createGallery.inc.php:24
+#: includes/forms/editGallery.inc.php:71
+msgid "ex: the type of thumbnail"
+msgstr ""
+
+#: includes/forms/createGallery.inc.php:27
+#: includes/forms/editGallery.inc.php:74
+msgid "Display Type:"
+msgstr ""
+
+#: includes/forms/createGallery.inc.php:30
+#: includes/forms/editGallery.inc.php:79
+msgid "Just Videos"
+msgstr ""
+
+#: includes/forms/createGallery.inc.php:32
+#: includes/forms/editGallery.inc.php:94
+msgid "ex: display albums or just videos in gallery"
+msgstr ""
+
+#: includes/forms/createGallery.inc.php:35
+msgid "Save New Gallery"
+msgstr ""
+
+#: includes/forms/editAlbum.inc.php:8
+msgid "Invalid Album data"
+msgstr ""
+
+#: includes/forms/editAlbum.inc.php:34
+msgid "Edit Video Album"
+msgstr ""
+
+#: includes/forms/editAlbum.inc.php:41
+msgid "ex: name of album"
+msgstr ""
+
+#: includes/forms/editAlbum.inc.php:44
+msgid "Slug:"
+msgstr ""
+
+#: includes/forms/editAlbum.inc.php:46
+msgid "ex: permalink slug for album"
+msgstr ""
+
+#: includes/forms/editAlbum.inc.php:49
+msgid "Album Gallery:"
+msgstr ""
+
+#: includes/forms/editAlbum.inc.php:67
+msgid "ex: the gallery containing this album"
+msgstr ""
+
+#: includes/forms/editAlbum.inc.php:96 includes/forms/editGallery.inc.php:99
+#: includes/forms/editVideo.inc.php:120
+#: includes/forms/generalOptions.inc.php:164
+msgid "Save Changes"
+msgstr ""
+
+#: includes/forms/editAlbum.inc.php:106
+msgid "Album Thumbnail:"
+msgstr ""
+
+#: includes/forms/editAlbum.inc.php:107
+msgid "ex: choose the thumbnail for the album"
+msgstr ""
+
+#: includes/forms/editAlbum.inc.php:131
+msgid "Oops, you have not added any videos to this album yet"
+msgstr ""
+
+#: includes/forms/editGallery.inc.php:8 includes/forms/viewGallery.inc.php:8
+msgid "Invalid Gallery ID"
+msgstr ""
+
+#: includes/forms/editGallery.inc.php:21
+msgid "Edit Gallery"
+msgstr ""
+
+#: includes/forms/editGallery.inc.php:25
+msgid "ex: name of gallery"
+msgstr ""
+
+#: includes/forms/editVideo.inc.php:9
+msgid "Invalid Video data"
+msgstr ""
+
+#: includes/forms/editVideo.inc.php:20
+msgid "Invalid Video ID"
+msgstr ""
+
+#: includes/forms/editVideo.inc.php:39
+msgid "Edit Video"
+msgstr ""
+
+#: includes/forms/editVideo.inc.php:51
+msgid "ex: name of video"
+msgstr ""
+
+#: includes/forms/editVideo.inc.php:54
+msgid "Album:"
+msgstr ""
+
+#: includes/forms/editVideo.inc.php:72
+msgid "ex: the album containing this video"
+msgstr ""
+
+#: includes/forms/editVideo.inc.php:113
+msgid "Refresh Thumbnail:"
+msgstr ""
+
+#: includes/forms/editVideo.inc.php:115
+msgid "ex: force thumbnail refresh for video"
+msgstr ""
+
+#: includes/forms/generalOptions.inc.php:15
+msgid "Youtube API Key:"
+msgstr ""
+
+#: includes/forms/generalOptions.inc.php:17
+msgid "ex: your Youtube API key"
+msgstr ""
+
+#: includes/forms/generalOptions.inc.php:20
+msgid "Video Player Controls Theme:"
+msgstr ""
+
+#: includes/forms/generalOptions.inc.php:25
+msgid "Dark"
+msgstr ""
+
+#: includes/forms/generalOptions.inc.php:25
+msgid "Light"
+msgstr ""
+
+#: includes/forms/generalOptions.inc.php:40
+msgid "ex: theme of the player's controls (if shown - YouTube only)"
+msgstr ""
+
+#: includes/forms/generalOptions.inc.php:43
+msgid "Video Player Controlbar Color:"
+msgstr ""
+
+#: includes/forms/generalOptions.inc.php:48
+msgid "Red"
+msgstr ""
+
+#: includes/forms/generalOptions.inc.php:48
+msgid "White"
+msgstr ""
+
+#: includes/forms/generalOptions.inc.php:63
+msgid "ex: color of the player's progress bar (YouTube only)"
+msgstr ""
+
+#: includes/forms/generalOptions.inc.php:66
+msgid "Max Video Player Dimensions:"
+msgstr ""
+
+#: includes/forms/generalOptions.inc.php:72
+#: includes/forms/generalOptions.inc.php:78
+#: includes/forms/generalOptions.inc.php:84
+#: includes/forms/generalOptions.inc.php:90
+#: includes/forms/generalOptions.inc.php:96
+#: includes/forms/generalOptions.inc.php:102
+msgid "Reset"
+msgstr ""
+
+#: includes/forms/generalOptions.inc.php:73
+msgid "ex: max dimensions of video player"
+msgstr ""
+
+#: includes/forms/generalOptions.inc.php:76
+msgid "Thumbnail Width:"
+msgstr ""
+
+#: includes/forms/generalOptions.inc.php:79
+msgid "ex: width of video thumbnails"
+msgstr ""
+
+#: includes/forms/generalOptions.inc.php:82
+msgid "Thumbnail Padding:"
+msgstr ""
+
+#: includes/forms/generalOptions.inc.php:85
+msgid "ex: padding for video thumbnails"
+msgstr ""
+
+#: includes/forms/generalOptions.inc.php:88
+msgid "Thumbnail Border Radius:"
+msgstr ""
+
+#: includes/forms/generalOptions.inc.php:91
+msgid "ex: roundness of thumbnail corners, set to 0 to disable"
+msgstr ""
+
+#: includes/forms/generalOptions.inc.php:94
+msgid "Overlay Color:"
+msgstr ""
+
+#: includes/forms/generalOptions.inc.php:97
+msgid "ex: color of lightbox overlay, any hex color"
+msgstr ""
+
+#: includes/forms/generalOptions.inc.php:100
+msgid "Overlay Opacity:"
+msgstr ""
+
+#: includes/forms/generalOptions.inc.php:103
+msgid "ex: opacity of lightbox overlay [ 0 - 1.0 ]"
+msgstr ""
+
+#: includes/forms/generalOptions.inc.php:106
+msgid "Remove Magnific Popup Scripts:"
+msgstr ""
+
+#: includes/forms/generalOptions.inc.php:108
+msgid ""
+"ex: check only if you are already loading the Magnific Popup scripts "
+"elsewhere"
+msgstr ""
+
+#: includes/forms/generalOptions.inc.php:111
+msgid "Do not use permalinks:"
+msgstr ""
+
+#: includes/forms/generalOptions.inc.php:113
+msgid "ex: check to use \"?aid=\" for album links instead of permalinks"
+msgstr ""
+
+#: includes/forms/generalOptions.inc.php:120
+msgid "Ok"
+msgstr ""
+
+#: includes/forms/generalOptions.inc.php:123
+msgid "Permalinks are not enabled, please enable permalinks for site"
+msgstr ""
+
+#: includes/forms/generalOptions.inc.php:125
+msgid "Rewrite rules not set, please disable and re-enable plugin to fix"
+msgstr ""
+
+#: includes/forms/generalOptions.inc.php:129
+msgid "Permalink Status:"
+msgstr ""
+
+#: includes/forms/generalOptions.inc.php:131
+msgid "ex: permalink status check"
+msgstr ""
+
+#: includes/forms/generalOptions.inc.php:138
+#: includes/forms/generalOptions.inc.php:153
+msgid "Enabled"
+msgstr ""
+
+#: includes/forms/generalOptions.inc.php:140
+msgid "Not Enabled"
+msgstr ""
+
+#: includes/forms/generalOptions.inc.php:144
+msgid "GD Extension:"
+msgstr ""
+
+#: includes/forms/generalOptions.inc.php:146
+#: includes/forms/generalOptions.inc.php:161
+msgid "ex: used for saving thumbnails"
+msgstr ""
+
+#: includes/forms/generalOptions.inc.php:155
+msgid "Disabled"
+msgstr ""
+
+#: includes/forms/generalOptions.inc.php:159
+msgid "Imagick Extension:"
+msgstr ""
+
+#: includes/forms/overviewGalleries.inc.php:12
+msgid "Create New Gallery"
+msgstr ""
+
+#: includes/forms/overviewGalleries.inc.php:23
+msgid "FAQ's"
+msgstr ""
+
+#: includes/forms/viewAlbum.inc.php:29 includes/forms/viewGallery.inc.php:26
+msgid "Clear Sort"
+msgstr ""
+
+#: includes/forms/viewAlbum.inc.php:33
+msgid "Videos for Album"
+msgstr ""
+
+#: includes/forms/viewAlbum.inc.php:34
+msgid "videos"
+msgstr ""
+
+#: includes/forms/viewGallery.inc.php:25
+msgid "Create New Album"
+msgstr ""
+
+#: includes/forms/viewGallery.inc.php:30
+msgid "Video Albums for Gallery"
+msgstr ""
+
+#: includes/forms/viewGallery.inc.php:31
+msgid "albums"
+msgstr ""
+
+#: includes/processor.inc.php:49
+msgid "Oops... thumbnail width, padding, and radius must contain only numbers."
+msgstr ""
+
+#: includes/processor.inc.php:99
+msgid "Oops... something went wrong or there were no changes needed"
+msgstr ""
+
+#: includes/processor.inc.php:120 includes/processor.inc.php:158
+#: includes/processor.inc.php:195 includes/processor.inc.php:349
+#: includes/processor.inc.php:441
+msgid "Oops... all form fields must have a value"
+msgstr ""
+
+#: includes/processor.inc.php:135
+msgid "Gallery created"
+msgstr ""
+
+#: includes/processor.inc.php:137 includes/processor.inc.php:175
+#: includes/processor.inc.php:227 includes/processor.inc.php:418
+#: includes/processor.inc.php:466 includes/processor.inc.php:536
+msgid "Oops... something went wrong"
+msgstr ""
+
+#: includes/processor.inc.php:173
+msgid "Gallery updated"
+msgstr ""
+
+#: includes/processor.inc.php:225
+msgid "Video album created"
+msgstr ""
+
+#: includes/processor.inc.php:252
+msgid "Oops... all required fields must have a value."
+msgstr ""
+
+#: includes/processor.inc.php:318
+msgid "Video added to album."
+msgstr ""
+
+#: includes/processor.inc.php:369
+msgid "Oops... an internal error has occurred."
+msgstr ""
+
+#: includes/processor.inc.php:416
+msgid "Playlist added to album"
+msgstr ""
+
+#: includes/processor.inc.php:464
+msgid "Video album updated"
+msgstr ""
+
+#: includes/processor.inc.php:491
+msgid "Oops... all required fields must have a value"
+msgstr ""
+
+#: includes/processor.inc.php:534
+msgid "Video updated"
+msgstr ""
+
+#: includes/processor.inc.php:550
+msgid "Permalinks updated"
+msgstr ""
